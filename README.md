@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./images/opencv.png" alt="OpenCV Logo" width="200" padding-right="20"/>
   <img src="./images/pytorch.jpg" alt="PyTorch Logo" width="200" padding-left="20" />
-  <img src="./images/pylightning.png" alt="PyTorch Lightning Logo" width="200" padding-left="20"/>
+  <img src="./images/pylightning1.png" alt="PyTorch Lightning Logo" width="200" padding-left="20"/>
 </p>
 
 # OPEN CV - Object Classification competition  
