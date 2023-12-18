@@ -33,7 +33,7 @@ $$\text{Acc} = \frac{\text{Number of correct predictions}}{\text{Total number of
 
 We can calculate Accuracy score using Confusion Matrix as follows:
 
-$$\text{Acc} = \frac{\sum_{i=1}^{n} M_{ii}}{\sum_{i=1}^{n-1}\sum_{j=1}^{n-1} M_{ij}}\]$$
+$$\text{Acc} = \frac{\sum_{i=1}^n M_ii}{\sum_{i=1}^n-1\sum_{j=1}^n-1 M_ij}\$$
 
 $$\text{Where M = Confusion Matrix}$$
 
